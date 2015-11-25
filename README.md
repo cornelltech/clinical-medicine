@@ -25,6 +25,7 @@ Designed directly from patient inputs in order to improve the experience.
 Slice is a search application for radiology reports. It is used by radiologists and residents. 
 Slice has been built with a lot of feedback from radiologists. 
 Slice is designed from bottom up to provide a great user experience.    
+Slice is currently used by radiologists at WCMC to search thousands of reports 
 
 [Demo](http://slice.jaichaudhary.com)
 
